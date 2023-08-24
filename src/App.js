@@ -18,7 +18,7 @@ function App() {
       </h1>
       <Card
         text="Lihat CV"
-        link="https://drive.google.com/file/d/1GRCiQBkwBqTOl9WgSqv-tiT7RAOEBsdx/view?usp=sharing"
+        link="https://drive.google.com/file/d/197423uxvkHaFkyB7OTX40-kKKsEFvyDw/view?usp=sharing"
       />
       <Card
         text="Farren Space"
