@@ -1,0 +1,9 @@
+.pressedEffect{
+    box-shadow: 7px 7px black;
+    border-radius: 1rem;
+}
+
+.pressedEffect:hover{
+    box-shadow: 4px 4px black;
+    transform: translate(3px, 3px);
+}
