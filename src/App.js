@@ -19,13 +19,14 @@ function App() {
         text="Lihat CV"
         link="https://drive.google.com/file/d/197423uxvkHaFkyB7OTX40-kKKsEFvyDw/view?usp=sharing"
       />
+      <Card text="Email" link="mailto:fidelisfarren.work@gmail.com" />
+      <Card text="Instagram" link="https://www.instagram.com/ffarrenp/" />
+      <Card text="VSCO" link="https://vsco.co/ffarren/gallery" />
       <Card
         text="Farren Space"
         link="https://ffarren.github.io/farren-space/"
       />
-      <Card text="Email" link="mailto:fidelisfarren.work@gmail.com" />
-      <Card text="Instagram" link="https://www.instagram.com/ffarrenp/" />
-      <Card text="VSCO" link="https://vsco.co/ffarren/gallery" />
+      <Card text="Rumah Tulip" link="https://ffarren.github.io/rumah-tulip" />
 
       <footer className="p-10">
         <p className="font-mono text-white">made by farren</p>
